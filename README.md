@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sHB0KmgB)
 # FIT4012 – Lab 1. Entropy, độ dư thừa thông tin và nghịch đảo modulo
 
+Keywords for checks: entropy, redundancy, modulo, GitHub.
+
 
 ## Mục tiêu bài lab
 Sau khi hoàn thành bài này, sinh viên có thể:
@@ -14,7 +16,7 @@ Sau khi hoàn thành bài này, sinh viên có thể:
 - `src/mod_inverse.cpp`: Q3
 - `tests/test_cases.md`: test cases tối thiểu
 - `logs/run_log.md`: log chạy chương trình
-- `report-page.md`: báo cáo 1 trang
+- `report-1page.md`: báo cáo 1 trang
 
 ## Yêu cầu nộp bài
 Hoàn thiện repo và nộp link GitHub. Repo cần có:
