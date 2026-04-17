@@ -29,3 +29,21 @@ Hoàn thiện repo và nộp link GitHub. Repo cần có:
 - `Implement redundancy calculation`
 - `Implement modular inverse with extended Euclid`
 - `Add tests and report`
+
+Cách chạy chương trình
+Entropy & Redundancy
+g++ src/entropy_redundancy.cpp -o entropy
+./entropy
+Modulo Inverse
+g++ src/mod_inverse.cpp -o mod
+./mod
+Kết quả mẫu
+Input: aaaa → Entropy = 0, Redundancy = 8
+Input: abcd → Entropy = 2, Redundancy = 6
+Input: hello world → Entropy ≈ 2.845
+3 mod 7 → 5
+10 mod 17 → 12
+6 mod 9 → không tồn tại
+Ghi chú
+
+Bài đã được kiểm thử với nhiều test case cơ bản và kết quả phù hợp với lý thuyết.
