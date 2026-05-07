@@ -11,7 +11,6 @@
 - [x] Đã chạy với `6 9`
 
 ## Điều em học được từ bài lab
-Viết 3-5 dòng ngắn gọn ở đây.
 Em hiểu cách entropy đo mức độ phân bố thông tin của một chuỗi ký tự.
 Nhận thấy khi dữ liệu lặp nhiều thì entropy thấp và độ dư thừa cao.
 Hiểu điều kiện tồn tại nghịch đảo modulo là gcd(a, m) = 1.
